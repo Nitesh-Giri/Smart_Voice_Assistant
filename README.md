@@ -34,7 +34,8 @@ A sleek React app that transforms your voice into an actionable todo list.
 | **Home Screen** | **Todo List** |
 |-----------------|---------------|
 | Start the app with a single button. | See your tasks with action buttons. |
-| ![Home Screen](https://picsum.photos/600/300?random=1) | ![Todo List](https://picsum.photos/600/300?random=2) |
+| ![Home Screen](<img width="1384" alt="Screenshot 2025-02-21 at 10 44 56 AM" src="https://github.com/user-attachments/assets/89218ffd-3a6f-41c6-b897-519dce76571f" />
+) | ![Todo List](https://picsum.photos/600/300?random=2) |
 
 *Replace these with your own screenshots!*
 
