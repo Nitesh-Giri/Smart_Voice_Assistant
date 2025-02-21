@@ -54,13 +54,5 @@ A sleek React app that transforms your voice into an actionable todo list.
 - Works best in Chrome.
 - Click "Add to Calendar" to download a file for your calendar app.
 
-Made with ❤️ by [Your Name].
-`;
+Made with ❤️ by Nitesh Giri.
 
-fs.writeFileSync('README.md', readmeContent.trim(), (err) => {
-  if (err) {
-    console.error('Error writing README.md:', err);
-  } else {
-    console.log('README.md generated successfully!');
-  }
-});
