@@ -1,6 +1,4 @@
-const fs = require('fs');
 
-const readmeContent = `
 # Speech-to-Todo List
 
 A sleek React app that transforms your voice into an actionable todo list.
